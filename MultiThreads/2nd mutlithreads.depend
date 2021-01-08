@@ -1,0 +1,108 @@
+# depslib dependency file v1.0
+1610113060 source:e:\va task\2nd mutlithreads\count_with_value.cpp
+	"count_with_value.h"
+
+1610023872 e:\va task\2nd mutlithreads\count_with_value.h
+	"actor.h"
+
+1610112772 e:\va task\2nd mutlithreads\actor.h
+	<iostream>
+
+1610035520 source:e:\va task\2nd mutlithreads\default_count.cpp
+	"default_count.h"
+
+1610034741 e:\va task\2nd mutlithreads\default_count.h
+	"actor.h"
+
+1610101548 source:e:\va task\2nd mutlithreads\main.cpp
+	<iostream>
+	<mutex>
+	"dispatcher.h"
+
+1610111137 e:\va task\2nd mutlithreads\dispatcher.h
+	<map>
+	<vector>
+	<thread>
+	<condition_variable>
+	"default_count.h"
+	"count_with_value.h"
+	"auto_decrease.h"
+	"auto_increase.h"
+
+1610101332 e:\va task\2nd mutlithreads\worker.h
+	"default_count.h"
+	"count_with_value.h"
+	<condition_variable>
+	<mutex>
+	<thread>
+	<mutex>
+	<condition_variable>
+
+1610096727 source:e:\va task\2nd mutlithreads\worker.cpp
+	"worker.h"
+	<chrono>
+
+1610113032 source:e:\va task\2nd mutlithreads\dispatcher.cpp
+	"dispatcher.h"
+	<iostream>
+	<stdio.h>
+
+1610113593 source:e:\va task\2nd mutlithreads\auto_increase.cpp
+	"auto_increase.h"
+
+1610104916 e:\va task\2nd mutlithreads\auto_increase.h
+	"count_with_value.h"
+
+1610104916 source:e:\va task\2nd mutlithreads\auto_decrease.cpp
+	"auto_decrease.h"
+
+1610104980 e:\va task\2nd mutlithreads\auto_decrease.h
+	"count_with_value.h"
+
+1610104916 source:e:\va task\done\multithreads\auto_decrease.cpp
+	"auto_decrease.h"
+
+1610104980 e:\va task\done\multithreads\auto_decrease.h
+	"count_with_value.h"
+
+1610023872 e:\va task\done\multithreads\count_with_value.h
+	"actor.h"
+
+1610112772 e:\va task\done\multithreads\actor.h
+	<iostream>
+
+1610113593 source:e:\va task\done\multithreads\auto_increase.cpp
+	"auto_increase.h"
+
+1610104916 e:\va task\done\multithreads\auto_increase.h
+	"count_with_value.h"
+
+1610113060 source:e:\va task\done\multithreads\count_with_value.cpp
+	"count_with_value.h"
+
+1610035520 source:e:\va task\done\multithreads\default_count.cpp
+	"default_count.h"
+
+1610034741 e:\va task\done\multithreads\default_count.h
+	"actor.h"
+
+1610116517 source:e:\va task\done\multithreads\dispatcher.cpp
+	"dispatcher.h"
+	<iostream>
+	<stdio.h>
+
+1610111137 e:\va task\done\multithreads\dispatcher.h
+	<map>
+	<vector>
+	<thread>
+	<condition_variable>
+	"default_count.h"
+	"count_with_value.h"
+	"auto_decrease.h"
+	"auto_increase.h"
+
+1610101548 source:e:\va task\done\multithreads\main.cpp
+	<iostream>
+	<mutex>
+	"dispatcher.h"
+
