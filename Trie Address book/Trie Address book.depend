@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1610012203 source:e:\va task\trie address book\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<stdio.h>
+	"tinyxml.h"
+
+1305393898 e:\va task\trie address book\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305393898 e:\va task\trie address book\tinystr.h
+	<assert.h>
+	<string.h>
+
+1305393898 source:e:\va task\trie address book\tinystr.cpp
+	"tinystr.h"
+
+1305393898 source:e:\va task\trie address book\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305393898 source:e:\va task\trie address book\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305393898 source:e:\va task\trie address book\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1305393898 source:e:\va task\done\trie address book\tinystr.cpp
+	"tinystr.h"
+
+1305393898 e:\va task\done\trie address book\tinystr.h
+	<assert.h>
+	<string.h>
+
+1305393898 source:e:\va task\done\trie address book\tinyxml.cpp
+	<ctype.h>
+	<sstream>
+	<iostream>
+	"tinyxml.h"
+
+1305393898 e:\va task\done\trie address book\tinyxml.h
+	<ctype.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<assert.h>
+	<string>
+	<iostream>
+	<sstream>
+	"tinystr.h"
+
+1305393898 source:e:\va task\done\trie address book\tinyxmlerror.cpp
+	"tinyxml.h"
+
+1305393898 source:e:\va task\done\trie address book\tinyxmlparser.cpp
+	<ctype.h>
+	<stddef.h>
+	"tinyxml.h"
+	<windows.h>
+
+1305393898 source:e:\va task\done\trie address book\xmltest.cpp
+	<iostream>
+	<sstream>
+	<stdio.h>
+	<crtdbg.h>
+	"tinyxml.h"
+
+1610117996 source:e:\va task\done\trie address book\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<map>
+	<stdio.h>
+	"tinyxml.h"
+
