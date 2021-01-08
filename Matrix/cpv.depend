@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1609942365 source:c:\users\test\downloads\cpv\main.cpp
+	<iostream>
+	<vector>
+	<map>
+	<string>
+	<algorithm>
+	<set>
+	<cassert>
+
+1610117159 source:e:\va task\done\matrix\main.cpp
+	<iostream>
+	<stdio.h>
+
