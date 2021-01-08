@@ -12,9 +12,9 @@ The min is 0 (index 7, row 3, col 2) and max is 8 (index 4, row�
 
 ## Implemention of an Address Book that is based on the Trie structure
 for reference https://en.wikipedia.org/wiki/Trie  
--constructs a Trie graph for a number of Persons (name, address).  
--Trie-search a node (name, address) with the expected Trie algorithmic complexity from the command line.  
--exports the output tree as an XML file named Phonebook.xml
+- constructs a Trie graph for a number of Persons (name, address).  
+- Trie-search a node (name, address) with the expected Trie algorithmic complexity from the command line.  
+- exports the output tree as an XML file named Phonebook.xml
 
 ## A multi-threading system that has:
 - A Dispatcher helper class, which creates an Actor object that runs in a separate thread. 
